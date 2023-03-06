@@ -1,0 +1,1 @@
+#J'ai simplement fais les opérations suivantes ("10*3" et "10-3") dans le terminal. 
